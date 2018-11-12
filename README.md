@@ -27,4 +27,4 @@ Os simbolos foram coletados com a função `stockSymbols()` e também foram acre
   
 # Próximos passos
 
-COnseguir de forma automática os simbolos de todas as ações IBOVESPA
+Conseguir de forma automática os simbolos de todas as ações IBOVESPA
