@@ -2,8 +2,6 @@
 
 Aplicativo para visualizar acoes com os pacotes highcharter e quantmod
 
-em construção..
-
 # Demonstração:
 
 ![](app.gif)
